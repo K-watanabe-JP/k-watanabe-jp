@@ -1,4 +1,8 @@
 ## Hi there 👋
+<div align="center">
+  
+  ![snake gif](https://github.com/K-watanabe-JP/k-watanabe-jp/blob/output/github-snake-dark.svg)
+</div>
 
 <!--
 **K-watanabe-JP/k-watanabe-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
